@@ -1,0 +1,12 @@
+# 整合 skill 许可
+
+本文件夹中的 natural-expression 整合 skill 依据 Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）提供。
+
+许可证：https://creativecommons.org/licenses/by-nc/4.0/
+法律文本：https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+可以在署名、保留许可证链接、注明修改并遵守非商业条件的前提下分享及改编。不得增加阻止他人行使许可证允许权利的额外限制。完整条件以许可证法律文本为准。
+
+上游署名、原始许可声明和改编说明见 .agents/skills/natural-expression/THIRD_PARTY_NOTICES.md；固定来源及贡献见 .agents/skills/natural-expression/references/sources.md。human-writing、Humanizer-zh 和 Humanizer 的 MIT 声明分别保留，dbs-script-flow 的 CC BY-NC 4.0 声明亦完整保留。
+
+许可对象是这个 skill 文件包；这里不为用户提供的材料或生成稿件另行设定许可。
